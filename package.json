@@ -1,0 +1,34 @@
+{
+  "name": "Bookspace",
+  "version": "0.0.0",
+  "description": "Simple app for booking conference rooms at Squarespace.",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/perryazevedo/bookspace"
+  },
+  "keywords": [
+    "Google",
+    "Calendar",
+    "calendar",
+    "booking",
+    "conference",
+    "rooms"
+  ],
+  "author": "perryazevedo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/perryazevedo/bookspace/issues"
+  },
+  "homepage": "https://github.com/perryazevedo/bookspace",
+  "dependencies": {
+    "logfmt": "^1.1.2",
+    "express": "^3.5.1"
+  },
+  "engines": {
+    "node": "0.10.26"
+  }
+}
